@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Umair-Rinde
-- Certainly, here's a concise version suitable for your public GitHub profile bio:
 -👨‍💻 B.Tech IT student | Backend Developer Intern | Govt. College Project Contributor
 -🔧 Skills: Java, Python, Spring Boot, Django, SQL, Git
 -🌟 Passionate about backend development & building impactful solutions. Currently interning at a software solutions company & contributing to a government-funded college project.
