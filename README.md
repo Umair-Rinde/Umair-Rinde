@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umair-Rinde
 -👨‍💻 B.Tech IT student | Backend Developer Intern | Govt. College Project Contributor
--🔧 Skills: Java, Python, Spring Boot, Django, SQL, Git
+-🔧 Skills: Python, TypeScript, JavaScript, Nest.js, SQL, Git
 -🌟 Passionate about backend development & building impactful solutions. Currently interning at a software solutions company & contributing to a government-funded college project.
 -🎓 Studying Information Technology, eager to learn & collaborate on exciting projects. Let's connect and code together! 💬
 - 💻 coding is just a door to another world
