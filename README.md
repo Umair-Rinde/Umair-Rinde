@@ -10,7 +10,7 @@
 
 - 💻 Coding is just a door to another world.
 
-- 📫 **LinkedIn:** [Umair Rinde](https://www.linkedin.com/in/umair-rinde) | **Instagram:** [@umair_rinde_313](https://www.instagram.com/umair_rinde_313)
+- 📫 **LinkedIn:** [Umair Rinde](https://www.linkedin.com/in/umair-rinde) | **Instagram:** [@umair\_rinde\_313](https://www.instagram.com/umair_rinde_313)
 
 ---
 
@@ -27,31 +27,36 @@
 ## 💼 Projects:
 
 ### 1. **RiseBack**
-   - **Description:** A platform connecting global students with Indian universities offering affordable degrees in Business & IT.
-   - **Features:** Digital marketing courses, blockchain, AI programs, UGC-accredited degrees.
+
+- **Description:** A platform connecting global students with Indian universities offering affordable degrees in Business & IT.
+- **Features:** Digital marketing courses, blockchain, AI programs, UGC-accredited degrees.
 
 ### 2. **Educationist.ai**
-   - **Description:** Career guidance platform using LangChain and ChatGPT.
-   - **Highlights:** AI-driven guidance for students.
+
+- **Description:** Career guidance platform using LangChain and ChatGPT.
+- **Highlights:** AI-driven guidance for students.
 
 ### 3. **Learning Management System (LMS)**
-   - **Description:** Developed an LMS using Nest.js with features like blogs and course purchasing options.
+
+- **Description:** Developed an LMS using Nest.js with features like blogs and course purchasing options.
 
 ### 4. **FEMS**
-   - **Description:** Farmer empowerment project focusing on solutions for agricultural challenges.
 
-### 5. **Government College Project**
-   - **Description:** Contributing to a government-funded project aimed at improving academic resources for colleges.
+- **Description:** Farmer empowerment project focusing on solutions for agricultural challenges.
+
+### 5. **Government College **
+
+- **Description:** Contributing to a government-funded project aimed at improving academic resources for colleges.
 
 ---
 
 ## 📊 GitHub Stats:
 
-![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umair-Rinde&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Rinde&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Umair-Rinde&theme=radical)
+
+
+
 
 ---
 
