@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umair-Rinde
 
-- 👨‍💻 **B.Tech IT student | Backend Developer Intern | Govt. College Project Contributor**
+- 👨‍💻 **B.Tech IT student | Software Developer Intern | Govt. College Project Contributor**
 
 - 🔧 **Skills:** Python, TypeScript, JavaScript, Nest.js, SQL, Git
 
@@ -52,11 +52,21 @@
 
 ## 📊 GitHub Stats:
 
-![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umair-Rinde&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Rinde&layout=compact&theme=radical)
-
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umair-Rinde&theme=github)
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Umair-Rinde&show_icons=true&theme=radical" alt="Umair's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Rinde&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
