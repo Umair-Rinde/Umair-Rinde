@@ -58,6 +58,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Umair-Rinde&theme=radical)
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Umair-Rinde&theme=radical)
 
 
 
