@@ -26,7 +26,7 @@
 
 ## 💼 Projects:
 
-### 1. **RiseBack**
+### 1. **LMS**
 
 - **Description:** A platform connecting global students with Indian universities offering affordable degrees in Business & IT.
 - **Features:** Digital marketing courses, blockchain, AI programs, UGC-accredited degrees.
@@ -36,15 +36,11 @@
 - **Description:** Career guidance platform using LangChain and ChatGPT.
 - **Highlights:** AI-driven guidance for students.
 
-### 3. **Learning Management System (LMS)**
-
-- **Description:** Developed an LMS using Nest.js with features like blogs and course purchasing options.
-
-### 4. **FEMS**
+### 3. **FEMS**
 
 - **Description:** Farmer empowerment project focusing on solutions for agricultural challenges.
 
-### 5. **Government College **
+### 4. **Government College**
 
 - **Description:** Contributing to a government-funded project aimed at improving academic resources for colleges.
 
