@@ -16,11 +16,28 @@
 
 ## 🚀 Current Tech Stack:
 
-- **Languages:** Python, TypeScript, JavaScript
-- **Frameworks & Libraries:** Nest.js, Tailwind CSS
-- **Databases:** MongoDB, SQL
-- **Tools & Platforms:** Firebase, Git, GitHub
-- **Other Skills:** IT Service Management (ITSM), LangChain (AI integrations), LMS development
+- **Languages:**
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+- **Frameworks & Libraries:**
+  - ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
+  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+- **Databases:**
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+- **Tools & Platforms:**
+  - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+- **Other Skills:**
+  - ![IT Service Management](https://img.shields.io/badge/ITSM-003B57?style=flat&logo=service-now&logoColor=white)
+  - ![LangChain](https://img.shields.io/badge/LangChain-00A9E0?style=flat&logo=python&logoColor=white)
+  - ![LMS](https://img.shields.io/badge/LMS-1F63E9?style=flat&logo=react&logoColor=white)
 
 ---
 
