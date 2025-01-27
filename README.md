@@ -40,11 +40,6 @@
 
 - **Description:** Farmer empowerment project focusing on solutions for agricultural challenges.
 
-### 4. **Government College**
-
-- **Description:** Contributing to a government-funded project aimed at improving academic resources for colleges.
-
----
 
 ## 📊 GitHub Stats:
 
