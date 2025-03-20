@@ -49,22 +49,38 @@
 
 ---
 
+Here's the updated **Projects** section with more details:  
+
+---
+
 ## 💼 Projects:
 
-### 1. **LMS**
+### 1. **RiseBack LMS**  
+- **Tech Stack:** NestJS, PostgreSQL, Sequelize  
+- **Description:** A scalable **Learning Management System (LMS)** for **RiseBack**, enabling students to enroll in courses, track progress, and access learning materials.  
+- **Highlights:** Course buying, student management, and real-time updates.  
 
-- **Description:** A platform connecting global students with Indian universities offering affordable degrees in Business & IT.
-- **Features:** Digital marketing courses, blockchain, AI programs, UGC-accredited degrees.
+### 2. **Educationist.ai**  
+- **Tech Stack:** Next.js, Django, LangChain, ChatGPT  
+- **Description:** An **AI-powered career guidance platform** that helps students and professionals make informed career decisions.  
+- **Highlights:** Intelligent career recommendations using AI and language models.  
 
-### 2. **Educationist.ai**
+### 3. **CareerView**  
+- **Tech Stack:** FastAPI, PostgreSQL, React Native  
+- **Description:** A **mock interview and job-seeking platform** designed to help users prepare for real-world job applications.  
+- **Highlights:** AI-driven interview simulations and job application tracking.  
 
-- **Description:** Career guidance platform using LangChain and ChatGPT.
-- **Highlights:** AI-driven guidance for students.
+### 4. **FEMS (Farmer Empowerment Management System)**  
+- **Tech Stack:** Django, React.js, PostgreSQL  
+- **Description:** A **platform for farmer empowerment**, providing solutions to agricultural challenges through technology.  
+- **Highlights:** Agricultural insights, market price tracking, and supply chain management.  
 
-### 3. **FEMS**
+### 5. **CRM System**  
+- **Tech Stack:** Django, React.js, PostgreSQL,  Firebase  
+- **Description:** A **Customer Relationship Management (CRM) system** designed to help businesses track customer interactions and manage sales pipelines.  
+- **Highlights:** Lead management, sales automation, and client engagement tracking.  
 
-- **Description:** Farmer empowerment project focusing on solutions for agricultural challenges.
-
+---
 
 ## 📊 GitHub Stats:
 
