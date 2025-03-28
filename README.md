@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Umair-Rinde  
-
-- 👨‍💻 **B.Tech IT student | Software Developer Intern | Govt. College Project Contributor | Former ITSM Developer at Fladdra**  
+- 🖥 Backend Developer at Alif
+- 👨‍💻 **B.Tech IT student | Software Developer | Govt. College Project Contributor | Former FullStack Developer at Fladdra**  
 
 - 🔧 **Skills:** Python, TypeScript, JavaScript, Nest.js, FastAPI, Django, React.js, SQL, Git  
 
